@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&family=Nunito:ital,wght@0,200;1,200&display=swap');
+
+body {
+	font-family: 'Comfortaa', cursive;
+}
+
+#home {
+	background:linear-gradient(#17a2b8,#15a5ff);
+	color: white;
+}
+
+.caixa {
+	padding: 60px 0;
+	border-bottom: 1px solid #e5e5e5;
+}
+
+footer p a {
+	margin: 5px 15px;
+
+}
+h4{
+	text-align: center;
+}
+
+#rodape-titulo{
+	font-size: 1em;
+	text-align:end;
+
+}
+
+
+
